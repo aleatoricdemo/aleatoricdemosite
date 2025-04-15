@@ -1,3 +1,4 @@
+console.log('JavaScript is running');
 document.addEventListener('DOMContentLoaded', function() {
     fetch('https://developer.orkescloud.com/api/human/tasks/getTaskDisplayNames?searchType=ADMIN', {
         method: 'GET',
