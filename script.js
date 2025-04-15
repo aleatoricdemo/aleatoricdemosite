@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "fullTextQuery": "",
             "definitionNames": [],
             "taskRefNames": [],
-            "displayNames": ["Expense Approval"],
+            "displayNames": ["Enter_Name"],
             "claimants": [],
             "assignees": [],
             "workflowIds": [],
