@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('https://developer.orkescloud.com/api/human/tasks/search', {
+    fetch('https://developer.orkescloud.com/api/human/tasks/getTaskDisplayNames?searchType=ADMIN', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
